@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## create service
 Command for service `ng g service service-name`
+
+## create Pipe
+Command for Pipe `ng g pipe pipe-name`
