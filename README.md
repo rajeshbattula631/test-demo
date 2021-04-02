@@ -31,3 +31,6 @@ Command for service `ng g service service-name`
 
 ## create Pipe
 Command for Pipe `ng g pipe pipe-name`
+
+## create Module
+Command for Module`ng g m module-name`
