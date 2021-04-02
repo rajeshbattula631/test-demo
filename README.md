@@ -36,3 +36,5 @@ Command for Pipe `ng g pipe pipe-name`
 Command for Module`ng g m module-name`
 
 ##`Test`
+
+##`Copy right`
