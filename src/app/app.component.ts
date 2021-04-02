@@ -20,6 +20,8 @@ export class AppComponent {
 result1:any;
 result2:any;
   res:any;
+
+
   addPost(){
 
     let data:any= {
