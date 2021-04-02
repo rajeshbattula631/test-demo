@@ -18,6 +18,7 @@ export class AppComponent {
   }
   result:any;
 result1:any;
+result2:any;
   res:any;
   addPost(){
 
