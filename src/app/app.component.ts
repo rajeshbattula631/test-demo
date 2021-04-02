@@ -17,6 +17,7 @@ export class AppComponent {
     });
   }
   result:any;
+result1:any;
   res:any;
   addPost(){
 
